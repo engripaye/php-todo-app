@@ -1,1 +1,30 @@
-
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background: #f9f9f9;
+}
+h2 {
+    color: #333;
+}
+form input {
+    padding: 8px;
+}
+form button {
+    padding: 8px 12px;
+    background: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin: 8px 0;
+    font-size: 18px;
+}
+a {
+    margin-left: 10px;
+    text-decoration: none;
+}
