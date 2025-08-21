@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "root";  // your MYSQL username
-$pass = "";     // your MYSQL password
+$pass = "1234567";     // your MYSQL password
 $db = "todo_app"; // db name
 
 $conn = new mysqli($host, $user, $pass, $db);
